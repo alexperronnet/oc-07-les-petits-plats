@@ -1,5 +1,9 @@
 # Les Petits Plats
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b4e62746-789a-4b60-860e-07720eea7675/deploy-status)](https://app.netlify.com/sites/openclassrooms-07-les-petits-plats/deploys)
+
+> **Disclaimer**: This repository houses a project undertaken as part of my "**JavaScript React Developer**" training program with [OpenClassrooms](https://openclassrooms.com/). Upon the conclusion of the program on **September 20th, 2023**, the project will no longer be updated or maintained.
+
 ![Preview](doc/preview.png)
 
 ## Overview
@@ -42,13 +46,13 @@ For this project I used the following technologies:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/alexperronnet/openclassrooms-p7-les-petits-plats.git
+git clone https://github.com/alexperronnet/openclassrooms-07-les-petits-plats.git
 ```
 
 ### Navigate to the project folder
 
 ```bash
-cd openclassrooms-p7-les-petits-plats
+cd openclassrooms-07-les-petits-plats
 ```
 
 ### Install dependencies
